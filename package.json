@@ -99,7 +99,7 @@
     "finale-rest": "^1.1.0",
     "fs-extra": "^8.1.0",
     "glob": "^7.1.6",
-    "grunt": "^1.0.4",
+    "grunt": "^1.5.2",
     "grunt-contrib-compress": "^1.6.0",
     "grunt-replace-json": "^0.1.0",
     "hashids": "^2.1.0",
